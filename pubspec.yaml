@@ -1,0 +1,28 @@
+description: "A new Flutter application."
+name: "flutterapp"
+version: "1.0.0+1"
+dependencies: 
+  cupertino_icons: "^0.1.2"
+  path_drawing: "^0.4.1"
+  url_launcher: ^5.0.3
+  flutter: 
+    sdk: "flutter"
+
+   
+dev_dependencies: 
+  flutter_test: 
+    sdk: "flutter"
+environment: 
+  sdk: ">=2.1.0 <3.0.0"
+flutter: 
+  assets: 
+    - "assets/images/"
+  fonts: 
+    - 
+      family: "Roboto"
+      fonts: 
+        - 
+          asset: "fonts/Roboto-regular.ttf"
+          style: "normal"
+          weight: 400
+  uses-material-design: true
