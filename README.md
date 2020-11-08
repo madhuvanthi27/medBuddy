@@ -11,6 +11,7 @@ On clicking the General button, another screen open which has provision to calcu
 - Unity
 - Visual Studio and Android Studio
 - Git
+- Figma
 
 # FUTURE SCOPE
 - Extend the pages to one regional language.
