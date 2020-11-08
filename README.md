@@ -6,6 +6,8 @@ On clicking Emergency button, Augmented Reality video for CPR opens as in to pro
 On clicking the Call for help button, a call is made to the ambulance directly after a disclaimer dialog prompt.
 On clicking the General button, another screen open which has provision to calculate BMI or to get general health tips. Health tips were made keeping in mind the fact that "prevention is better than cure." There are 5 categories mentioned under the doctor tips section - heart, Women Health, ENT, Eyes and Vaccines. Under every category, an animated video is shown giving tips to maintain good health in both English and Tamil or Hindi.
 
+My team consisted of 5 members. 2 of us were working on the Flutter app and 2 were working on the Augmented Reality.
+
 # TECHNOLOGY USED
 - Flutter
 - Unity
